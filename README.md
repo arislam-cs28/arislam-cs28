@@ -1,5 +1,4 @@
-## Hi there 👋
-
+# *About Me* 🩵
 <!--
 **arislam-cs28/arislam-cs28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm currently working on a VN (do look forward to that lol, it's my first major project), an app (hooray!), and my personal portfolio (cause I have no clue how else to keep track of my work).
+In terms of learning, I'm quite interested in HTML, CSS, game dev with Renpy, and, of course, machine learning! Who doesn't love some good ol' data science?
+I'm always up for constructive criticism and help with coding because I'm new to the scene, lol.
+You can reach me through any of the links in my bio!
+Fun fact: I write a lot and read even more! 
