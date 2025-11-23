@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm currently working on a VN (do look forward to that lol, it's my first major project), an app (hooray!), and my personal portfolio (cause I have no clue how else to keep track of my work).
+I'm currently working on a VN called Delta-035 (do look forward to that lol, it's my first major project), an app (hooray!), and my personal portfolio (cause I have no clue how else to keep track of my work).
 
 In terms of learning, I'm quite interested in HTML, CSS, game dev with Renpy, and, of course, machine learning! Who doesn't love some good ol' data science?
 
