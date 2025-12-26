@@ -13,13 +13,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm currently working on a VN called Delta-035 (do look forward to that lol, it's my first major project), an app (hooray!), and my personal portfolio (cause I have no clue how else to keep track of my work).
+Hi! I'm Arisha Islam, a student at HTHS (Class of '28) who loves art, writing, and reading!
 
-In terms of learning, I'm quite interested in HTML, CSS, game dev with Renpy, and, of course, machine learning! Who doesn't love some good ol' data science?
+I'm currently working several projects, so do look forward to those.
 
-I'm always up for constructive criticism and help with coding because I'm new to the scene, lol.
+In terms of learning, I'm quite interested in HTML, CSS, game dev with Renpy, and, of course, machine learning! I'm always up for constructive criticism too!
 
-Fun fact: I write a lot and read even more! Just your average high schooler at heart :)
+You can reach me through any of the links in my bio.
 
-You can reach me through any of the links in my bio!
+Have an awesome day :)
 
