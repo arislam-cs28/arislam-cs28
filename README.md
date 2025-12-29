@@ -13,13 +13,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi! I'm Arisha Islam, a student at HTHS (Class of '28) who loves art, writing, and reading!
+Hi! I'm Arisha Islam, a student at HTHS (Class of '28) who loves art, writing, and reading! Been coding for about a year now :)
 
-I'm currently working several projects, so do look forward to those.
+I'm currently working several projects, so do look forward to those <333
 
-In terms of learning, I'm quite interested in HTML, CSS, game dev with Renpy, and, of course, machine learning! I'm always up for constructive criticism too!
+In terms of languages, I currently have some proficiency with / am learning: HTML, CSS, JS, C++, Java, Python (for game dev with Ren'py + machine learning), and Dart (live laugh dart <3)!!!
 
-You can reach me through any of the links in my bio.
+You can reach me through any of the links in my bio :)
 
-Have an awesome day :)
+Have an awesome day!!!! 🩵
+
 
