@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi! I'm Arisha Islam, a student at HTHS (Class of '28) who loves art, writing, and reading! Been coding for about a year now :)
+Hi! I'm Arisha Islam, a student at HTHS (Class of '28) who loves art, writing, and reading! Been coding for about a year and half now :)
 
 I'm currently working several projects, so do look forward to those <333
 
