@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi! I'm Arisha I. (better known as blueheart online), a junior at High Technology High School (Class of '28) who loves art, writing, and anything biology-related! Been coding for about 1.75 years now and I'm always so, *so* happy to learn more! (No, seriously, drop advice!) :D
+Hi! I'm Arisha I. (better known as blueheart online), a junior at High Technology High School (Class of '28) who loves art, writing, and anything biology-related! Been coding for about 2 years now and I'm always so, *so* happy to learn more! (No, seriously, drop advice!) :D
 
 Whenever I'm not hunched over my computer, clicking away at the Godot Engine or running ML epochs on VSCode, you can find me drawing assets for my next project or writing up a new game storyline. Or even wiring circuits for, well, who knows! Guess you'll have to stick around and find out :)
 
